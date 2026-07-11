@@ -40,6 +40,18 @@ p {
   border-top: 1px solid #ddd;
 }
 
+.home-link {
+  display: inline-block;
+  margin-bottom: 24px;
+  color: #666;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.home-link:hover {
+  text-decoration: underline;
+}
+
 a {
   color: inherit;
 }
